@@ -11,4 +11,5 @@ It creates 3 different threads and below are there functionalities:
 
 ## How to run it
 Run below command to run it
+
 ```go run main.go```
