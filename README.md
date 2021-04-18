@@ -8,3 +8,7 @@ It creates 3 different threads and below are there functionalities:
 2. Another thread hits GET request defined in the above thread to get number and puts it on channel.
 3. Last thread reads number put on channel by the second thread and prints its square.
 
+
+## How to run it
+Run below command to run it
+```go run main.go```
